@@ -1,5 +1,5 @@
 # BlizzMove
-Modified version of the BlizzMove AddOn. See [wowace.com](https://www.wowace.com/projects/blizzmove) for original author.
+Modified version of the BlizzMove AddOn. See [WowAce](https://www.wowace.com/projects/blizzmove) or [CurseForge](https://www.curseforge.com/wow/addons/blizzmove) for original author.
 
 # Modified
 This addon was modified by [Suraf](https://wow.gamepedia.com/User:Surafbrov/BlizzMove) to add support for additional interfaces.
