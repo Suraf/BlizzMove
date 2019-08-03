@@ -40,6 +40,7 @@ movableFramesLoD = {
 	["Blizzard_IslandsQueueUI"] = function() BlizzMove:SetMoveHandle(IslandsQueueFrame) end,
 	["Blizzard_ItemAlterationUI"] = function() BlizzMove:SetMoveHandle(TransmogrifyFrame) end,
 	["Blizzard_ItemSocketingUI"] = function() BlizzMove:SetMoveHandle(ItemSocketingFrame) end,
+	["Blizzard_ItemUpgradeUI"] = function() BlizzMove:SetMoveHandle(ItemUpgradeFrame) end,
 	["Blizzard_LookingForGuildUI"] = function() BlizzMove:SetMoveHandle(LookingForGuildFrame) end,
 	["Blizzard_MacroUI"] = function() BlizzMove:SetMoveHandle(MacroFrame) end,
 	["Blizzard_ObliterumUI"] = function() BlizzMove:SetMoveHandle(ObliterumForgeFrame) end,

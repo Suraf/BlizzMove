@@ -18,6 +18,7 @@ This addon was modified by [Suraf](https://wow.gamepedia.com/User:Surafbrov) to 
 * [Scrappers](https://wow.gamepedia.com/Scrapper)
 * [Flight Maps](https://wow.gamepedia.com/Flight_Map)
 * [Heart of Azeroth](https://wow.gamepedia.com/Heart_of_Azeroth) and the [Heart Forge](https://wow.gamepedia.com/Heart_Forge) interface
+*[Item upgrading](https://wow.gamepedia.com/Item_upgrading) (Benethic gear upgrade, etc.)
 
 Additionally, it fixed the [Artifact interface](https://wow.gamepedia.com/Artifact_interface) and the [Artifact forge](https://wow.gamepedia.com/Artifact_forge) interfaces which were not working in the original.
 
