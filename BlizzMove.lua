@@ -2,7 +2,7 @@
 --if not _G.BlizzMove then BlizzMove = {} end
 local BlizzMove = _G.BlizzMove
 
-movableFrames = { GameMenuFrame, QuestFrame, FriendsFrame, GossipFrame, DressUpFrame, 
+movableFrames = { GameMenuFrame, QuestFrame, FriendsFrame, GossipFrame, DressUpFrame,
 	MerchantFrame, HelpFrame, MailFrame, BankFrame, VideoOptionsFrame, InterfaceOptionsFrame, PVEFrame,
 	LootFrame, RaidBrowserFrame, TradeFrame, TradeFrame, RaidBrowserFrame, QuestLogPopupDetailFrame, SUFWrapperFrame, TalkingHeadFramem, WorldMapFrame,
 	ExtraActionBarFrame, TabardFrame, DestinyFrame, SplashFrame, LevelUpDisplay, ItemTextFrame,
@@ -18,6 +18,7 @@ movableFramesWithhandle = { ["CharacterFrame"] =  { PaperDollFrame, fff, Reputat
 
 movableFramesLoD = {
 	["Blizzard_AchievementUI"] = function() BlizzMove:SetMoveHandle(AchievementFrame, AchievementFrameHeader) end,
+	["Blizzard_AlliedRacesUI"] = function() BlizzMove:SetMoveHandle(AlliedRacesFrame) end, -- TEST
 	["Blizzard_ArchaeologyUI"] = function() BlizzMove:SetMoveHandle(ArchaeologyFrame) end,
 	["Blizzard_ArtifactUI"] = function() BlizzMove:SetMoveHandle(ArtifactRelicForgeFrame); BlizzMove:SetMoveHandle(ArtifactFrame) end,
 	["Blizzard_AuctionUI"] = function() BlizzMove:SetMoveHandle(AuctionFrame) end,
@@ -48,6 +49,7 @@ movableFramesLoD = {
 	["Blizzard_PartyPoseUI"] = function() BlizzMove:SetMoveHandle(PartyPoseFrame) end,
 	["Blizzard_ReforgingUI"] = function() BlizzMove:SetMoveHandle(ReforgingFrame, ReforgingFrameInvisibleButton) end,
 	["Blizzard_ScrappingMachineUI"] = function() BlizzMove:SetMoveHandle(ScrappingMachineFrame) end,
+	--["Blizzard_StoreUI"] = function() BlizzMove:SetMoveHandle(StoreFrame) end,
 	["Blizzard_TalentUI"] = function() 	BlizzMove:SetMoveHandle(PlayerTalentFrame) end,
 	["Blizzard_TalkingHeadUI"] = function() BlizzMove:SetMoveHandle(TalkingHeadFrame) end,
 	["Blizzard_TradeSkillUI"] = function() BlizzMove:SetMoveHandle(TradeSkillFrame) end,
