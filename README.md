@@ -2,7 +2,7 @@
 Modified version of the BlizzMove AddOn. See [WowAce](https://www.wowace.com/projects/blizzmove) or [CurseForge](https://www.curseforge.com/wow/addons/blizzmove) for original author.
 
 # Modified
-This addon was modified by [Suraf](https://wow.gamepedia.com/User:Surafbrov/BlizzMove) to add support for additional interfaces.
+This addon was modified by [Suraf](https://wow.gamepedia.com/User:Surafbrov) to add support for additional interfaces.
 
 * [What's New](https://wow.gamepedia.com/What%27s_New)
 * [Bags](https://wow.gamepedia.com/Bag)
@@ -17,6 +17,7 @@ This addon was modified by [Suraf](https://wow.gamepedia.com/User:Surafbrov/Bliz
 * [Island Expedition](https://wow.gamepedia.com/Island_Expedition) queue interface
 * [Scrappers](https://wow.gamepedia.com/Scrapper)
 * [Flight Maps](https://wow.gamepedia.com/Flight_Map)
+* [Heart of Azeroth](https://wow.gamepedia.com/Heart_of_Azeroth) and the [Heart Forge](https://wow.gamepedia.com/Heart_Forge) interface
 
 Additionally, it fixed the [Artifact interface](https://wow.gamepedia.com/Artifact_interface) and the [Artifact forge](https://wow.gamepedia.com/Artifact_forge) interfaces which were not working in the original.
 
