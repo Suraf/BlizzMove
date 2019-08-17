@@ -18,7 +18,7 @@ movableFramesWithhandle = { ["CharacterFrame"] =  { PaperDollFrame, fff, Reputat
 
 movableFramesLoD = {
 	["Blizzard_AchievementUI"] = function() BlizzMove:SetMoveHandle(AchievementFrame, AchievementFrameHeader) end,
-	["Blizzard_AlliedRacesUI"] = function() BlizzMove:SetMoveHandle(AlliedRacesFrame) end, -- TEST
+	["Blizzard_AlliedRacesUI"] = function() BlizzMove:SetMoveHandle(AlliedRacesFrame) end,
 	["Blizzard_ArchaeologyUI"] = function() BlizzMove:SetMoveHandle(ArchaeologyFrame) end,
 	["Blizzard_ArtifactUI"] = function() BlizzMove:SetMoveHandle(ArtifactRelicForgeFrame); BlizzMove:SetMoveHandle(ArtifactFrame) end,
 	["Blizzard_AuctionUI"] = function() BlizzMove:SetMoveHandle(AuctionFrame) end,
